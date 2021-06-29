@@ -1,0 +1,86 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/board.c
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+board.h
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/board.h
+inputValidation.h
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/inputValidation.h
+
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/board.h
+stdbool.h
+-
+move.h
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/move.h
+
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/inputValidation.c
+ctype.h
+-
+stdio.h
+-
+inputValidation.h
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/inputValidation.h
+
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/inputValidation.h
+stdbool.h
+-
+
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/main.c
+stdio.h
+-
+stdlib.h
+-
+board.h
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/board.h
+move.h
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/move.h
+inputValidation.h
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/inputValidation.h
+win.h
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/win.h
+
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/move.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+move.h
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/move.h
+board.h
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/board.h
+inputValidation.h
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/inputValidation.h
+
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/move.h
+stdbool.h
+-
+
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/win.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+win.h
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/win.h
+board.h
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/board.h
+
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/win.h
+board.h
+/Users/bitnguyen/Desktop/UCDavis/Review/ECS/Intro-to-Programming-in-C-course-work--master/Final Project/minesweeper/board.h
+
